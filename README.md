@@ -12,7 +12,7 @@ IDE | Visual Studio for C#, IntelliJ for Java
 Programming Language | C# .NET version 8, Java version 21 or newer
 
 ### 2. Link to video presentation
-
+https://www.youtube.com/watch?v=V2_slKwY0MU
 
 ### 3. Report
 
